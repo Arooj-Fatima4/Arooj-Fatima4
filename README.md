@@ -15,8 +15,5 @@
 - **Languages:** C, Python, Assembly, C++
 - **Technologies:** AVR Microcontrollers, Embedded Systems, AI/ML
 - **Tools:** PSpice, Arduino IDE, Jupyter Notebook
-
-### How to Reach Me
-- 📝 Check out my [LinkedIn](www.linkedin.com/in/arooj-fatima-a97174287) for professional updates.
   
 Thanks for stopping by! Let's build something amazing together.
